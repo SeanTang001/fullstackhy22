@@ -20,9 +20,8 @@ const App = () => {
   }
 
   return (
-    <>
-      <Header course = {course}/>
-      <Content course = {course}/>
+    <>      <Header course = {course}/>
+    <Content course = {course}/>
       <Total course = {course}/>
     </>
   )
