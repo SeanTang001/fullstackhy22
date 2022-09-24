@@ -86,6 +86,8 @@ const individualCountry = () => {
           langz
         }
       <img src = {corrCountry.flags.png}/>
+      <h1>Weather in Helsinki</h1>
+      
       </>
     )
   }
